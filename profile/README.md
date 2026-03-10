@@ -4,5 +4,5 @@
 
 Purpose
 This repo groups:
-    - My custom Minecraft mods.
-    - Required mods or libraries I modify during coding (core dependencies like Stratagems or More Hitboxes).
+- My custom Minecraft mods.
+- Required mods or libraries I modify during coding (core dependencies like Stratagems or More Hitboxes).
